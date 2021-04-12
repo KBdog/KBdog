@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kbdog&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-### Hi!This is KBdog!A student from jluzh! 
+### :sparkles:Hi!This is KBdog!A student from jluzh! :sparkles:
 - :point_right: [My Blog](https://kbdog.github.io/)
 - :tv: [Bilibili](https://space.bilibili.com/3368545)
 - :bird: [Twitter](https://twitter.com/yu1246450339)
